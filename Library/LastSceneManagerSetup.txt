@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/main.unity
+- path: Assets/Boxing_ring/Scene/Boxing_Stadium.unity
   isLoaded: 1
   isActive: 1
