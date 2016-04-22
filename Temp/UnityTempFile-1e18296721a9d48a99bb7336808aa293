@@ -80,6 +80,8 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
 -define:CROSS_PLATFORM_INPUT
-'Assets/DimplesScript.cs'
+'Assets/Scripts/DimplesScript.cs'
+'Assets/Scripts/GameLogicScript.cs'
+'Assets/Scripts/PlayerHealth.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
